@@ -1,0 +1,9 @@
+main: net.purevanilla.uhc.Main
+authors: [Ablax, MrValioBg]
+name: UHCPact
+version: 1.0.0
+api-version: 1.17
+depend: [HolographicDisplays, WorldEdit, WorldGuard, Citizens, NickAPI, PlaceholderAPI]
+commands:
+  party:
+    description: Party команда.

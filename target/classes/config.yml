@@ -1,0 +1,44 @@
+maps:
+  map0:
+    schematic: "map0"
+    locations:
+      - "game:305:94:265"
+      - "game:312:94:263"
+      - "game:299:94:263"
+      - "game:301:94:269"
+      - "game:299:94:276"
+      - "game:301:94:283"
+      - "game:299:94:289"
+      - "game:305:94:287"
+      - "game:312:94:289"
+      - "game:319:94:287"
+      - "game:319:94:265"
+      - "game:325:94:289"
+      - "game:323:94:283"
+      - "game:325:94:276"
+      - "game:323:94:269"
+      - "game:325:94:263"
+    meetuplocations:
+      - "game:574:63:436"
+      - "game:488:97:313"
+      - "game:560:97:155"
+      - "game:352:96:122"
+      - "game:695:72:40"
+      - "game:58:80:320"
+      - "game:19:98:15"
+      - "game:297:95:251"
+      - "game:455:100:223"
+      - "game:558:101:8"
+  map1:
+    schematic: "map1"
+    locations:
+      - ""
+    meetuplocations:
+      - ""
+  map2:
+    schematic: "map2"
+    locations:
+      - ""
+    meetuplocations:
+      - ""
+
